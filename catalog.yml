@@ -1,0 +1,15 @@
+PREDEF:
+
+CHAPS:
+  - chapters/chapter1.re
+  - chapters/chapter2.re
+  - chapters/chapter3.re
+  - chapters/chapter4.re
+  - chapters/chapter5.re
+  - chapters/chapter6.re
+  - chapters/chapter7.re
+  - chapters/chapter8.re
+
+APPENDIX:
+
+POSTDEF:
